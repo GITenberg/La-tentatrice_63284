@@ -1,5 +1,5 @@
 _repo: La-tentatrice_63284
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La tierra de todos. French
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1987
     gutenberg_agent_id: '52360'
     url: http://www.gutenberg.org/2009/agents/52360
+covers:
+- cover_type: archival
+  image_path: 63284-h/images/cover.jpg
 creator:
   author:
     agent_name: Blasco Ibáñez, Vicente
@@ -22,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
     - https://es.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63284#La-tentatrice
 gutenberg_issued: '2020-09-24'
 gutenberg_type: Text
 identifiers:
